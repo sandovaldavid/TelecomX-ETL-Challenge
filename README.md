@@ -5,6 +5,9 @@
 [![NumPy](https://img.shields.io/badge/numpy-2.0.1-orange)](https://numpy.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
+<p align="center">
+  <img src="https://cdn1.gnarususercontent.com.br/6/409126/007f0f58-5970-4133-94b8-9af2551f2ab2.png" alt="ETL Badge"/>
+</p>
 ---
 
 ## 🔍 Descripción
