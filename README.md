@@ -9,10 +9,7 @@
 
 ## 🔍 Descripción
 
-**Telecom X** es un proyecto/challenge dentro de la formación  
-“Aprendiendo a hacer ETL G8 - ONE”. Consiste en extraer, transformar  
-y analizar un conjunto de datos de clientes de una compañía de  
-telecomunicaciones, aplicando buenas prácticas de Data Engineering.
+**Telecom X** es un proyecto/challenge dentro de la formación “Aprendiendo a hacer ETL G8 - ONE”. Consiste en extraer, transformar y analizar un conjunto de datos de clientes de una compañía de telecomunicaciones, aplicando buenas prácticas de Data Engineering.
 
 ---
 
